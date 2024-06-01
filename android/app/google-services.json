@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "685681991296",
+    "project_id": "dermatology-7fea3",
+    "storage_bucket": "dermatology-7fea3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:685681991296:android:df6fe03bacfe041bbc5065",
+        "android_client_info": {
+          "package_name": "com.example.doctor_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "685681991296-6o426d4i8dmm1dfma07oasikg48ns3nc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA8bCl1odeUw3ZkJADHPgUxent161-wEYg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "685681991296-6o426d4i8dmm1dfma07oasikg48ns3nc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
